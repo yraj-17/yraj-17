@@ -1,5 +1,5 @@
 ## 👋 Hi there, I’m Raj Yadav  
-**Third-Year B.E. IT Student | Full-Stack Developer | GenAI & DevOps Enthusiast**
+**Final-Year B.E. IT Student | Full-Stack Developer | GenAI & DevOps Enthusiast**
 
 I’m an engineering student focused on building **practical, real-world software systems**.  
 My interests span **full-stack development, Generative AI integration, and DevOps fundamentals**.
